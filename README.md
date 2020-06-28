@@ -1,0 +1,2 @@
+# sql-exercise
+SQL exercise
